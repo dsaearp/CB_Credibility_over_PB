@@ -1,4 +1,4 @@
-# Impacto da Credibilidade do Banco Central sobre a gestão da Dívida Pública
+# Impacts of Central Bank Credibility on Public Debt Management
 
 This repository contains the scripts used in my paper "Impacts of Central Bank Credibility on Public Debt Management".
 
